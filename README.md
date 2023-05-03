@@ -1,2 +1,2 @@
 # data-science-and-analytics
- Degree Project
+ Repository for Degree Projects at Pontifícia Universidade Católica - Rio de Janeiro
