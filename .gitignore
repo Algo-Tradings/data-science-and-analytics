@@ -1,3 +1,10 @@
+# Development Environment
+.*/
+__*.py
+__*.ipynb
+__*.csv
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
